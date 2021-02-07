@@ -1,0 +1,18 @@
+[
+    {
+        "full_name": "Michael Bubble",
+        "age": 23,
+        "city": "new york",
+        "username": "michael",
+        "password": "123456",
+        "role": "admin"
+    },
+    {
+        "full_name": "van persie",
+        "age": 24,
+        "city": "texas",
+        "username": "vanpersie",
+        "password": "234567",
+        "role": "user"
+    }
+]
